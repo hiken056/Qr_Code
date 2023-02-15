@@ -1,0 +1,36 @@
+html {
+    background-color: hsl(212, 45%, 89%)
+}
+
+body {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 120px;
+}
+
+
+ul {
+    list-style-type: none;
+    background-color: white;
+    height: auto;
+    width: 300px;
+    margin: auto;
+    padding: 20px;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+li {
+    margin: 0;
+
+}
+
+img {
+    border-radius: 10px;
+    height: 300px;
+    width: auto;
+}
